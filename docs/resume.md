@@ -3,4 +3,5 @@
 ## IT Major with a Concentration in Software Development at University of North Alabama
 
 I am originally from Ariton, AL, but college has brought me to Florence, AL where I now reside.
-🖥️  See my portfolio at (https://github.com/nrobinson4/ubiquitous-fishstick-foxtrot)
+
+-🖥️  See my portfolio at (https://github.com/nrobinson4/ubiquitous-fishstick-foxtrot)
