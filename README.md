@@ -4,7 +4,7 @@
 
 I am originally from Ariton, AL, but college has brought me to Florence, AL where I now reside.
 - 📫 How to reach me: nolenariton@gmail.com or 334-379-2211
-- 🧠  I'm learning Jquery, CSS, HTML Front end web Development!
+- 🧠  I'm learning Front-End Development and SQL
 
 🖥️  See my portfolio at https://github.com/nrobinson4/ubiquitous-fishstick-foxtrot
 
