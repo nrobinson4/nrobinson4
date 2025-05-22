@@ -1,10 +1,10 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nolen Q. Robinson
 
-## IT Major with a Concentration in Software Development at the University of North Alabama
+## IT Graduate from UNA with an interest in Software Development
 
 I am originally from Ariton, AL, but college has brought me to Florence, AL where I now reside.
 - 📫 How to reach me: nolenariton@gmail.com or 334-379-2211
-- 🧠  I'm learning Node.js and Mongo!
+- 🧠  I'm currently studying for the Security+ exam!
 
 🖥️  See my portfolio at https://github.com/nrobinson4/ubiquitous-fishstick-foxtrot
 
